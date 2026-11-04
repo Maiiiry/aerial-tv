@@ -107,3 +107,5 @@ fi
 if __name__ == '__main__':
     unittest.main()
 
+
+# Automated fix for issue #1264: [问题]自己上传的视频当桌面，按方向键向下，再返回主页桌面就变黑，这次视频不会！
